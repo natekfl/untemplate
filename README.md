@@ -1,6 +1,6 @@
 # Untemplate
 
-This is a simple helper to extract values from a string based on a template pattern. Similar to [extract-values](https://github.com/laktek/extract-values)
+This is a simple golang helper to extract values from a string based on a template pattern. Similar to [extract-values](https://github.com/laktek/extract-values)
 
 ## Examples
 
